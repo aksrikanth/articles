@@ -14,3 +14,8 @@
   :title: "Rails 2.3.2, Passenger and Routing Static Files"
   :snippet: "I've just updated rails to the newly released 2.3.2, and deployed it using passenger (mod_rails) 2.1.2. However there was a problem with the routing of static files. I use static haml files to serve the static content on the site like my code and publications pages."
   :time: 2009-03-19 13:39:48.172459 +05:30
+- :id: 4
+  :file: "2009-07-18-automated_build_system_for_e-book_library.html.haml"
+  :title: "Automating E-Book Builds"
+  :snippet: "A number of sources including Project Gutenberg  and Google have started to digitize books that have gone out of copyright. Unfortunately, these sources either provide unformatted plain text or device specific, closed and often DRM encumbered formats. Everytime I moved to a different device or computer, I had to download all my e-books in the appropriate format. Worse, any cleanups and formatting I had done to my earlier copies was lost and I had to go through the same process again. Tired of this, I decided to create an automated build process to generate e-books in different formats."
+  :time: 2009-07-18 01:25:15.950124 +05:30
