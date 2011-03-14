@@ -1,4 +1,4 @@
-# date --rfc-3393=ns
+# date --rfc-3339=ns
 ---
 - :id: 1
   :file: "2009-03-14-rohit_sharma_shows_his_true_colors.html.haml"
@@ -45,3 +45,8 @@
   :title: "Universal Playback"
   :snippet: "Google Wave, for all its shortcomings, had some very useful features. One that intrigued me, and was probably not even noticed by those who tried it, was the playback feature. What if this type of feature were available in other programs. What if it were a part of your VCS or your editor?"
   :time: 2010-09-01 16:18:49.401728 -07:00
+- :id: 10
+  :file: "2010-8-28-the_importance_of_facing_boredom.html.haml"
+  :title: "The Importance of Facing Boredom"
+  :snippet: "I recently watched some documentaries about the history of math and science.  One of the narrators commented that many great thinkers liked to take long walks to help them think.  In this one respect I think that the great visionaries of the past had an advantage on those of us in the modern era: they had fewer distractions."
+  :time: 2011-03-13 19:40:56.780895 -07:00
