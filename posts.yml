@@ -1,57 +1,57 @@
 # date --rfc-3339=ns
 ---
 - :id: 1
-  :file: "2009-03-14-rohit_sharma_shows_his_true_colors.html.haml"
+  :file: "2009-03-14-rohit_sharma_shows_his_true_colors.mkd"
   :title: "Rohit Sharma's True Colors"
   :snippet: "They say a man's true colors show in adversity. I think the batting collapse during the 5th ODI counts as adversity enough to analyze Rohit Sharma's effort. On the face of it, Rohit Sharma top scored and made nearly a third of the teams runs. He batted till the very end and was only stopped when he ran out of partners at the other end. Good show?"
   :time: 2009-03-14 23:39:52.431042 +05:30
 - :id: 2
-  :file: "2009-03-16-india_vs_new_zealand_crunch_game.html.haml"
+  :file: "2009-03-16-india_vs_new_zealand_crunch_game.mkd"
   :title: "India vs New Zealand"
   :snippet: "No, I'm not talking about the first test, even though I have some thoughts about that. I'm talking about the super six match in that forgotten world cup. The outcome of this match is going to go a long way in deciding who will probably meet England in the world cup final. New Zealand are the favourites to win this match on recent form, and India have a young and inexperienced team."
   :time: 2009-03-16 20:46:57.294752 +05:30
 - :id: 3
-  :file: "2009-03-19-rails_passenger_and_static_routes.html.haml"
+  :file: "2009-03-19-rails_passenger_and_static_routes.mkd"
   :title: "Rails 2.3.2, Passenger and Routing Static Files"
   :snippet: "I've just updated rails to the newly released 2.3.2, and deployed it using passenger (mod_rails) 2.1.2. However there was a problem with the routing of static files. I use static haml files to serve the static content on the site like my code and publications pages."
   :time: 2009-03-19 13:39:48.172459 +05:30
 - :id: 4
-  :file: "2009-07-18-automated_build_system_for_e-book_library.html.haml"
+  :file: "2009-07-18-automated_build_system_for_e-book_library.mkd"
   :title: "Automating E-Book Builds"
   :snippet: "A number of sources including Project Gutenberg  and Google have started to digitize books that have gone out of copyright. Unfortunately, these sources either provide unformatted plain text or device specific, closed and often DRM encumbered formats. Everytime I moved to a different device or computer, I had to download all my e-books in the appropriate format. Worse, any cleanups and formatting I had done to my earlier copies was lost and I had to go through the same process again. Tired of this, I decided to create an automated build process to generate e-books in different formats."
   :time: 2009-07-18 01:25:15.950124 +05:30
 - :id: 5
-  :file: "2009-10-29-rock_band_is_fun.html.haml"
+  :file: "2009-10-29-rock_band_is_fun.mkd"
   :title: "Rock Band is Fun and Useful"
   :snippet: "One of the perks of being back in San Francisco is that I get to leave home during the day and actually go to work. This also means that I'm now surrounded by co-workers. This leads to a quest to find something to do together, and the answer was simple - Rock Band 2."
   :time: 2009-10-29 11:40:26.916493 -07:00
 - :id: 6
-  :file: "2009-10-30-investment_for_rationals.html.haml"
+  :file: "2009-10-30-investment_for_rationals.mkd"
   :title: "Investment for Rationals"
-  :snippet: "I've read my share of '. . . for dummies' books and they're usually a good guide for beginners in many disparate fields. I believe, however, that investment should not be one of those fields. We all spend a good deal of time and effort earning money and saving it. However when it comes to investment, people don't seem too keen to spend time and effort to in protecting their savings. I've picked up this book called 'The Intelligent Investor' that provides rational advice to investment. I think it would be even better named 'The Rational Investor' since actuall intelligence is not required. Much more important is dilligence in fact-checking and courage to ride through the good and bad times."
+  :snippet: "I've read my share of '… for dummies' books and they're usually a good guide for beginners in many disparate fields. I believe, however, that investment should not be one of those fields. We all spend a good deal of time and effort earning money and saving it. However when it comes to investment, people don't seem too keen to spend time and effort to in protecting their savings. I've picked up this book called 'The Intelligent Investor' that provides rational advice to investment. I think it would be even better named 'The Rational Investor' since actuall intelligence is not required. Much more important is dilligence in fact-checking and courage to ride through the good and bad times."
   :time: 2009-10-30 14:47:41.845974 -07:00
 - :id: 7
-  :file: "2009-11-12-new_religions_as_startups.html.haml"
+  :file: "2009-11-12-new_religions_as_startups.mkd"
   :title: "New Religions as Startups"
   :snippet: "In a discussion with G about new religions the other day, the topic somehow moved to how they are a lot like startups. Their advantage is that they are small and agile and can cater to the unhappy 'customers' of the established religions. They first target the 'earlyvangelists' who have a strong need and are actively looking for a better product. They need to be aggressive to push their product and convert users to their product."
   :time: 2009-11-12 16:34:25.165735 -08:00
 - :id: 8
-  :file: "2009-12-11-its_the_pitches_stupid.html.haml"
+  :file: "2009-12-11-its_the_pitches_stupid.mkd"
   :title: "It's the Pitches, Stupid"
   :snippet: "There has been a lot of talk recently about the decline and imminent death of test cricket. The possible fixes being considered include day-night tests, four-day tests, day-night three-day tests, smaller balls and a whole bunch of other radical changes. I think the problem is a lot simpler to fix. The biggest threat to test cricket in my opinion is the high scoring draw. Nothing is more demoralizing than watching the batsmen pile on the runs and not complete even three innings over five days. I suggest that pitches should be designed to produce a result in four days."
   :time: 2009-12-11 17:22:05.107862 -08:00
 - :id: 9
-  :file: "2010-08-28-granularity_of_version_control.html.haml"
+  :file: "2010-08-28-granularity_of_version_control.mkd"
   :title: "Universal Playback"
   :snippet: "Google Wave, for all its shortcomings, had some very useful features. One that intrigued me, and was probably not even noticed by those who tried it, was the playback feature. What if this type of feature were available in other programs. What if it were a part of your VCS or your editor?"
   :time: 2010-09-01 16:18:49.401728 -07:00
 - :id: 10
-  :file: "2010-08-28-the_importance_of_facing_boredom.html.haml"
+  :file: "2010-08-28-the_importance_of_facing_boredom.mkd"
   :title: "The Importance of Facing Boredom"
   :snippet: "I recently watched some documentaries about the history of math and science.  One of the narrators commented that many great thinkers liked to take long walks to help them think.  In this one respect I think that the great visionaries of the past had an advantage on those of us in the modern era: they had fewer distractions."
   :time: 2011-03-13 19:40:56.780895 -07:00
 - :id: 11
-  :file: "2010-08-31-you_pay_for_what_you_dont_get.html.haml"
+  :file: "2010-08-31-you_pay_for_what_you_dont_get.mkd"
   :title: "You Pay For What You Don't Get"
   :snippet: "I read this dilbert strip today, and it reminded me of an earlier blog post by its creator Scott Adams. Scott claims in his blog post that due to the complexity of the interfaces of some websites, you don't know if you're making the right choices. He goes on to claim that Apple get this type of thing right by making things simpler. I think that choice paralysis is something to guard against, but there is a price to be paid. With Apple for example, your choices may be easier, but you are left in no doubt: the product is guaranteed to be sub-optimal."
   :time: 2011-03-17 11:32:50.919109 -07:00
